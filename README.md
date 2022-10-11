@@ -1,5 +1,5 @@
 # indlang
-dynamic sign language design by me (@irfnrdh) to communicate to the world with simple term
+dynamic sign language design by me (@irfnrdh) to communicate to the world with simple term.  
 I create that to be more "kode keras". I usually use this for common code communication.
 
 This language basically separates a few things and add more layer pattern and sometimes
