@@ -6,3 +6,9 @@ This language basically separates a few things and add more layer pattern and so
 make it hard to understand but it's easy to know it.
 
 The main purpose of this language is to make it easy for everyone to use without having to learn it.
+
+## Features
+- Simple Symbol 
+- Memorable Visualize 
+- Simple typing 
+- Easy to Spelling
